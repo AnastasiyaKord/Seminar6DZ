@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\bin\Debug\net7.0\Задача41.exe
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\bin\Debug\net7.0\Задача41.deps.json
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\bin\Debug\net7.0\Задача41.runtimeconfig.json
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\bin\Debug\net7.0\Задача41.dll
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\bin\Debug\net7.0\Задача41.pdb
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.dll
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\refint\Задача41.dll
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.pdb
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\Задача41.genruntimeconfig.cache
+C:\Users\akordel\Desktop\Seminar6DZ\Задача41\obj\Debug\net7.0\ref\Задача41.dll
